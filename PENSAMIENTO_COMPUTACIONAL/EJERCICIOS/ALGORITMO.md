@@ -3,6 +3,7 @@
 1.Inicio
 2.Declarar
 sistema SAE módulo facturación
+
 3.Asignar 
 fecha del día de hoy
 código proveedor "uno"
@@ -12,7 +13,7 @@ valor unitario $2,000.00
 4.Ingresar a sistema SAE
 módulo facturación
 nueva factura
-ingresar fecha, código proveedor "uno", código producto "5689", cantidad piezas"500", valor unitario $2,000.00
+ingresar fecha"12-03-2022", código proveedor "uno", código producto "5689", cantidad piezas"500", valor unitario $2,000.00
 5.Mostrar factura
 6.Fin
 
